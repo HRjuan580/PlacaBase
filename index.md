@@ -51,5 +51,6 @@ Puertos USB y de Audio: Conectores que permiten la conexión de dispositivos ext
 
 BIOS/UEFI: Firmware que inicializa el hardware al encender el ordenador y proporciona una interfaz para configurar diversas opciones del sistema.
 
-
 ![image](https://onubaelectronica.es/wp-content/uploads/2020/04/mainboard_componentes.png)
+
+
