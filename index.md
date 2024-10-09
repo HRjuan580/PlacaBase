@@ -12,7 +12,7 @@ A lo largo de los años, las placas base han integrado innovaciones como conecto
 
 
 
-Formato de placa base
+#Formato de placa base
 
 
 Inicios y Formato AT
@@ -32,7 +32,7 @@ El formato E-ATX (Extended ATX), que se introdujo para ofrecer más espacio para
 
 
 
-Componentes
+#Componentes
 
 
 Socket del Procesador: Conector donde se monta el CPU. Permite la comunicación entre el procesador y la placa base.
