@@ -1,7 +1,7 @@
 # PlacaBase
 
 
-#Evolucion
+**Evolucion**
 
 
 La evolución de la placa base ha sido crucial en el desarrollo de las computadoras, comenzando en la década de 1980 con el formato AT (Advanced Technology) de IBM, que ofrecía un diseño básico pero limitado en conectividad y expansión. En 1995, Intel presentó el formato ATX (Advanced Technology eXtended), que mejoró la gestión del cableado y ofreció más puertos de expansión, estableciendo un nuevo estándar en la industria. Con el tiempo, surgieron variantes como MicroATX y Mini-ITX, que respondieron a la necesidad de sistemas más compactos. El MicroATX mantenía la compatibilidad con el ATX, mientras que el Mini-ITX se centraba en construcciones de bajo perfil. Posteriormente, el formato E-ATX (Extended ATX) amplió el espacio para más componentes, satisfaciendo las demandas de usuarios entusiastas y de alto rendimiento.
@@ -12,7 +12,7 @@ A lo largo de los años, las placas base han integrado innovaciones como conecto
 
 
 
-#Formato de placa base
+**Formato de placa base**
 
 
 Inicios y Formato AT
@@ -32,7 +32,7 @@ El formato E-ATX (Extended ATX), que se introdujo para ofrecer más espacio para
 
 
 
-#Componentes
+**Componentes**
 
 
 Socket del Procesador: Conector donde se monta el CPU. Permite la comunicación entre el procesador y la placa base.
